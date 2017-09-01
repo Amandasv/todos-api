@@ -1,2 +1,2 @@
-class ItemsController < ApplicationController
+class ItemsController < ApiController
 end
